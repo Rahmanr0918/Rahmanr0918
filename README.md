@@ -1,7 +1,8 @@
 # Halo Semua
 
-Perkenalkan nama saya **Rahman Ramadan**.\
-Saya seorang Penulis dan Web Developer.
+Saya seorang Front-End Developer Pemula\
+Mahasiswa di Universitas Pasundan\
+Jurusan Teknik Informatika
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
